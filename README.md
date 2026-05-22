@@ -288,6 +288,7 @@ Feel free to fork this repository and submit improvements or bug fixes via pull 
 ## Author
 
 Created by [@Always-Amulya7](https://github.com/Always-Amulya7)
+LinkedIn [Amulya Shrivastava](https://www.linkedin.com/in/amulya-shrivastava-11a0a9288/)
 
 ---
 
